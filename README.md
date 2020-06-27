@@ -1,2 +1,3 @@
 # Importable
-Powerful Plugin Import tool for Batch and Flyt programming languages
+Powerful Plugin Import tool
+To be developed by the team at flytlabs.dev
